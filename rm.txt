@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-master-rm
-=======
-feature1-rm
->>>>>>> feature1
+dev-rm
